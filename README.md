@@ -47,7 +47,7 @@ You can deploy this project easily using:
 2. Go to **Settings → Pages**  
 3. Choose branch `main` and folder `/root`  
 4. Save → Your website will be live at:  
-   `https://yourusername.github.io/project-folder/`  
+   `https://innothegreat.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/`  
 
 ---
 
