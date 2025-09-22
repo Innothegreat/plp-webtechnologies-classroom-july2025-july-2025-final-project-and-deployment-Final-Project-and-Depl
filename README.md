@@ -52,7 +52,7 @@ You can deploy this project easily using:
 ---
 
 ## 🔗 Live Demo
-👉 [Live Website URL Here](#) (replace with your deployed site)
+👉 [https://innothegreat.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/](#) (replace with your deployed site)
 
 ---
 
