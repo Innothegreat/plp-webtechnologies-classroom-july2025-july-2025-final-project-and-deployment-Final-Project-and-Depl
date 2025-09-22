@@ -1,7 +1,7 @@
-# 🌐 My Portfolio Website
+# 🌐 My Website
 
 ## 📌 Project Purpose
-This is a responsive and interactive multipage portfolio website built using **HTML5**, **CSS3**, and **JavaScript**.  
+This is a responsive and interactive multipage website built using **HTML5**, **CSS3**, and **JavaScript**.  
 It demonstrates planning, structure, responsiveness, interactivity, and deployment for a real-world project.
 
 ---
@@ -64,4 +64,4 @@ You can deploy this project easily using:
 ---
 
 ## 👨‍💻 Author
-Built with ❤️ by *Your Name*
+Built with ❤️ by *Innocent*
