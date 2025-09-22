@@ -36,11 +36,9 @@ project-folder/
 ---
 
 ## 🚀 Deployment
-You can deploy this project easily using:
+I deployed this project easily using:
 
-- **GitHub Pages** → Free hosting for static sites  
-- **Netlify** → Drag & drop deployment + free subdomain  
-- **Vercel** → Fast hosting for frontend projects  
+- **GitHub Pages** → Free hosting for static sites 
 
 ### Example (GitHub Pages):
 1. Push your project to a GitHub repository  
