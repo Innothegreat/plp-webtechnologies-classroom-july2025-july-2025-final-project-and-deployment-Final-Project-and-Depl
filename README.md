@@ -50,7 +50,7 @@ I deployed this project easily using:
 ---
 
 ## 🔗 Live Demo
-👉 https://innothegreat.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/(#)
+👉 https://innothegreat.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ---
 
